@@ -1,0 +1,22 @@
+{
+  "name": "freedom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jRoadie/freedom.git"
+  },
+  "author": "rock.on.jroadie@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jRoadie/freedom/issues"
+  },
+  "homepage": "https://github.com/jRoadie/freedom#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
